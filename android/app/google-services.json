@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304542873500",
+    "project_id": "easyrider-7de32",
+    "storage_bucket": "easyrider-7de32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304542873500:android:09ecc1b51a532d044fba59",
+        "android_client_info": {
+          "package_name": "com.example.easy_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304542873500-d5h5a8i1jhstsrtj7p2n3atabme4eeb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkyw4HbxINYFKVGzrxXbXCM0CZi_Jt0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304542873500-d5h5a8i1jhstsrtj7p2n3atabme4eeb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
