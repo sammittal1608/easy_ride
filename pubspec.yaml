@@ -21,6 +21,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # Smooth Page Indicator for carousel indicators
+  smooth_page_indicator: ^1.2.0+3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -31,16 +34,9 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
-
-  # To add custom fonts to your application, add a fonts section here.
-  # Example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
+  # Assets for your project (like images)
+  assets:
+    - assets/images/bike.png
+    - assets/images/user_pic.png
+    - assets/images/bike_Home.png
+    - assets/images/zany_face.png
